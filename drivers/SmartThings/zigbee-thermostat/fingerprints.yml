@@ -1,19 +1,19 @@
 zigbeeManufacturer:
-#   - id: "LUX/KONOZ"
-#     deviceLabel: LUX Thermostat
-#     manufacturer: LUX
-#     model: KONOZ
-#     deviceProfileName: thermostat-battery-powerSource
-#   - id: "Umbrela/Thermostat"
-#     deviceLabel: Umbrela Thermostat
-#     manufacturer: Umbrela
-#     model: Thermostat
-#     deviceProfileName: thermostat-battery-powerSource
-#   - id: "Danfoss/eTRV0100"
-#     deviceLabel: Danfoss Thermostat
-#     manufacturer: Danfoss
-#     model: eTRV0100
-#     deviceProfileName: thermostat-popp-danfoss
+  - id: "LUX/KONOZ"
+    deviceLabel: LUX Thermostat
+    manufacturer: LUX
+    model: KONOZ
+    deviceProfileName: thermostat-battery-powerSource
+  - id: "Umbrela/Thermostat"
+    deviceLabel: Umbrela Thermostat
+    manufacturer: Umbrela
+    model: Thermostat
+    deviceProfileName: thermostat-battery-powerSource
+  - id: "Danfoss/eTRV0100"
+    deviceLabel: Danfoss Thermostat
+    manufacturer: Danfoss
+    model: eTRV0100
+    deviceProfileName: thermostat-popp-danfoss
 #   - id: "D5X84YU/eT093WRO"
 #     deviceLabel: POPP Thermostat
 #     manufacturer: D5X84YU
@@ -54,16 +54,16 @@ zigbeeManufacturer:
     manufacturer: Sinope Technologies
     model: TH1500ZB
     deviceProfileName: thermostat-sinope
-#   - id: "Stelpro/STZB402plus"
-#     deviceLabel: Stelpro Thermostat
-#     manufacturer: Stelpro
-#     model: STZB402+
-#     deviceProfileName: thermostat-temperature-temperaturealarm
-#   - id: "Stelpro/ST218"
-#     deviceLabel: Stelpro Thermostat
-#     manufacturer: Stelpro
-#     model: ST218
-#     deviceProfileName: thermostat-temperature-temperaturealarm
+  - id: "Stelpro/STZB402plus"
+    deviceLabel: Stelpro Thermostat
+    manufacturer: Stelpro
+    model: STZB402+
+    deviceProfileName: thermostat-temperature-temperaturealarm
+  - id: "Stelpro/ST218"
+    deviceLabel: Stelpro Thermostat
+    manufacturer: Stelpro
+    model: ST218
+    deviceProfileName: thermostat-temperature-temperaturealarm
   - id: "Stelpro/MaestroStat"
     deviceLabel: Stelpro Thermostat
     manufacturer: Stelpro
@@ -79,11 +79,11 @@ zigbeeManufacturer:
     manufacturer: Stelpro
     model: SonomaStyle
     deviceProfileName: thermostat-stelpro-profile
-#   - id: "Leviton RC"
-#     deviceLabel: Leviton RC Series Thermostat
-#     manufacturer: HAI
-#     model: 65A01-1
-#     deviceProfileName: base-thermostat-no-operating-state
+  - id: "Leviton RC"
+    deviceLabel: Leviton RC Series Thermostat
+    manufacturer: HAI
+    model: 65A01-1
+    deviceProfileName: base-thermostat-no-operating-state
   - id: "Centralite/3157100"
     deviceLabel: Centralite Thermostat
     manufacturer: Centralite

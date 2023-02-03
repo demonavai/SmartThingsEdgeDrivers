@@ -176,37 +176,37 @@ zwaveManufacturer:
 #     manufacturerId: 0x018C
 #     productType: 0x0061
 #     productId: 0x0001
-#     deviceProfileName: multipurpse-switch-1
+#     deviceProfileName: multipurpose-switch-1
 #   - id: 018C/0062/0001
 #     deviceLabel: Dawon Wall Smart Switch
 #     manufacturerId: 0x018C
 #     productType: 0x0062
 #     productId: 0x0001
-#     deviceProfileName: multipurpse-switch-2
+#     deviceProfileName: multipurpose-switch-2
 #   - id: 018C/0063/0001
 #     deviceLabel: Dawon Wall Smart Switch
 #     manufacturerId: 0x018C
 #     productType: 0x0063
 #     productId: 0x0001
-#     deviceProfileName: multipurpse-switch-3
+#     deviceProfileName: multipurpose-switch-3
 #   - id: 018C/0064/0001
 #     deviceLabel: Dawon Wall Smart Switch
 #     manufacturerId: 0x018C
 #     productType: 0x0064
 #     productId: 0x0001
-#     deviceProfileName: multipurpse-switch-1
+#     deviceProfileName: multipurpose-switch-1
 #   - id: 018C/0065/0001
 #     deviceLabel: Dawon Wall Smart Switch
 #     manufacturerId: 0x018C
 #     productType: 0x0065
 #     productId: 0x0001
-#     deviceProfileName: multipurpse-switch-2
+#     deviceProfileName: multipurpose-switch-2
 #   - id: 018C/0066/0001
 #     deviceLabel: Dawon Wall Smart Switchs
 #     manufacturerId: 0x018C
 #     productType: 0x0066
 #     productId: 0x0001
-#     deviceProfileName: multipurpse-switch-3
+#     deviceProfileName: multipurpose-switch-3
 #   - id: 010F/1B01/1000
 #     deviceLabel: Fibaro Walli Double Switch
 #     manufacturerId: 0x010F
@@ -337,12 +337,12 @@ zwaveManufacturer:
 #     manufacturerId: 0x010F
 #     productType: 0x0203
 #     deviceProfileName: switch-1-button-6-power-energy
-#   - id: "Eaton/5740/0000"
-#     deviceLabel: Eaton 5-Scene Keypad
-#     manufacturerId: 0x001A
-#     productType: 0x574D
-#     productId: 0x0000
-#     deviceProfileName: switch-5-keypad
+  - id: "Eaton/574D/0000"
+    deviceLabel: Eaton 5-Scene Keypad
+    manufacturerId: 0x001A
+    productType: 0x574D
+    productId: 0x0000
+    deviceProfileName: switch-5-keypad
   - id: 014A/0006
     deviceLabel: Ecolink Switch
     manufacturerId: 0x014A
@@ -556,7 +556,7 @@ zwaveManufacturer:
     deviceLabel: Minoston Outlet
     manufacturerId: 0x0312
     productType: 0xFF00
-    productId: 0xFF07
+    productId: 0xFF06
     deviceProfileName: smartplug-binary
   - id: 0312/FF00/FF01
     deviceLabel: Minoston Outlet
@@ -880,11 +880,11 @@ zwaveManufacturer:
     manufacturerId: 0x0086
     productId: 0x0008
     deviceProfileName: metering-dimmer
-#   - id: 010F/0102
-#     deviceLabel: Fibaro Dimmer Switch
-#     manufacturerId: 0x010F
-#     productType: 0x0102
-#     deviceProfileName: fibaro-dimmer-2
+  - id: 010F/0102
+    deviceLabel: Fibaro Dimmer Switch
+    manufacturerId: 0x010F
+    productType: 0x0102
+    deviceProfileName: fibaro-dimmer-2
 zwaveGeneric:
   - id: "GenericSwitch/1"
     deviceLabel: Switch
