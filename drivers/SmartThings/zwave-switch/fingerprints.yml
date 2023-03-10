@@ -17,6 +17,12 @@ zwaveManufacturer:
     productType: 0x5250
     productId: 0x3130
     deviceProfileName: switch-binary
+  - id: "GE/Switch/04"
+    deviceLabel: GE Switch 04
+    manufacturerId: 0x0063
+    productType: 0x6363
+    productId: 0x3030
+    deviceProfileName: switch-binary
   - id: 0063/4457
     deviceLabel: GE Dimmer Switch
     manufacturerId: 0x0063
