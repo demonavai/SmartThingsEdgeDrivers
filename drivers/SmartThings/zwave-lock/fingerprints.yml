@@ -128,7 +128,7 @@ zwaveManufacturer:
 #     manufacturerId: 0x0129
 #     productType: 0x0004
 #     productId: 0x0800
-#     deviceProfileName: base-lock
+#     deviceProfileName: yale-lock-pref_v1
 #   - id: "Yale/YRD210/1"
 #     deviceLabel: Yale Door Lock
 #     manufacturerId: 0x0129
